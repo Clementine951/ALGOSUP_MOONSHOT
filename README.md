@@ -1,3 +1,5 @@
+# We're safe
+
 1. WHAT problem is your moonshot project solving
 
 The problem I will try to solve is the lack of security for women.
@@ -45,6 +47,7 @@ Activation of a stream visible to authorities or emergency contacts, to find out
 The streams would be recorded to allow complaints to be filed
 
 <br>
+<hr>
 
 The challenge of this application is to make it usable without the internet and make it user-friendly and very fast. 
 
