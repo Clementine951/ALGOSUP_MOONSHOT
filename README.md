@@ -25,7 +25,7 @@ I believe many women don’t file any complaints against their aggressors becaus
 
 3. HOW are you going to solve that problem (brief technical explanation of the technologies used).
 
-My solution is to develop an application 
+My solution is to develop an application.
 
 The first version : 
 
@@ -46,9 +46,8 @@ Allows victims of aggression to record what happened afterward, up to x minutes 
 Activation of a stream visible to authorities or emergency contacts, to find out what is going on.
 The streams would be recorded to allow complaints to be filed
 
-<br>
-<hr>
+<hr> 
 
-The challenge of this application is to make it usable without the internet and make it user-friendly and very fast. 
+The challenge of this application is to make it user-friendly, discreet, and fast. 
 
 For the technological side, it will be a challenge for this application to make it usable without the internet or network and make it very fast. 
