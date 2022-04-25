@@ -50,4 +50,4 @@ The streams would be recorded to allow complaints to be filed
 
 The challenge of this application is to make it user-friendly, discreet, and fast. 
 
-For the technological side, it will be a challenge for this application to make it usable without the internet or network and make it very fast. 
+For the technological side, it will be a challenge for this application to make it usable without the internet or network and make it very fast. And also the security of the datas.
