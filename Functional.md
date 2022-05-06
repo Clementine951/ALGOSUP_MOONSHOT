@@ -37,7 +37,7 @@ For the security of the application and the security of the users, they will nee
 
 To report that you are in danger, it has to be quick and subtle. 
 
-I was thinking about a button on the application that when you pressed twice, it sends your localisation to the people that have the application and are around you. You can also put an emergency contact and your location will be sent to them.
+I was thinking about a button on the application that when you pressed twice, it sends your location to the people that have the application and are around you. You can also put an emergency contact and your location will be sent to them.
 
 ### See where are the most dangerous zones.
 
