@@ -22,6 +22,8 @@ As you can see on these charts, 55% of these women didn’t take any initiative 
 
 I believe many women don’t file any complaints against their aggressors because they know it will go nowhere. They know that it will be a waste of time and in the process, their health will be affected. 
 
+Source : https://arretonslesviolences.gouv.fr/je-suis-professionnel/chiffres-de-reference-violences-faites-aux-femmes
+
 <hr>
 
 3. HOW are you going to solve that problem (brief technical explanation of the technologies used).
