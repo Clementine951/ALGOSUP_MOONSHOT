@@ -82,7 +82,7 @@ Multiple metrics can evaluate the effectiveness of the software and make adjustm
 
 # Sizing
 
-A minimal viable product[^mvp] could be achievable within a year. 
+A minimal viable product[^mvp] could be achievable within a year and half. 
 
 # Selected solution
 
@@ -111,7 +111,7 @@ We can consider these features out-of-scope because I'm not considering these as
 The main constraints of this project are:
 
 - **Technical constraints**: The software would have to be developed within certain technical constraints, such as the capabilities of the programming language, the platforms it is designed to run on, and the processing power of the devices it will be used on.
-- 
+
 - **Data limitations**: The accuracy and effectiveness of the software may be limited by the quality and availability of data on violence against women and other relevant statistics.
 
 - **User limitations**: The software may be limited by the technical abilities and internet access of its intended user base, as well as by the geographic and cultural factors that may influence their willingness to use the software.
