@@ -1,5 +1,18 @@
 
-# We're safe
+<hr>
+<p  align="center"  style="font-weight: bold; font-size: 30px"> We're Safe </p>
+
+<p  align="center"  style="font-weight: bold; font-size: 18px">Functional Specifications</p>
+
+<br>
+
+<p  align="center"> Clémentine Curel</p>  
+
+<br>
+
+<p  align="center"> ALGOSUP,  We're safe. All Rights Reserved. </p>
+
+<hr>
 
 <img src=./Pictures/logo.png alt="logo" height="200">
 
