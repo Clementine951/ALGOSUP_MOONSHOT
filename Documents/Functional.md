@@ -85,21 +85,21 @@ The target audience for this project is women of all ages, backgrounds, and loca
 
 # Personas
 
-<img src="Pictures/aly.png">
+<img src="Pictures/aly.png" style="height: 500px">
 
-<img src="Pictures/anna.png">
+<img src="Pictures/anna.png" style="height: 500px">
 
-<img src="Pictures/brianna.png">
+<img src="Pictures/brianna.png" style="height: 500px">
 
-<img src="Pictures/colby.png">
+<img src="Pictures/colby.png" style="height: 500px">
 
-<img src="Pictures/courtney.png">
+<img src="Pictures/courtney.png" style="height: 500px">
 
-<img src="Pictures/katy.png">
+<img src="Pictures/katy.png" style="height: 500px">
 
-<img src="Pictures/kayla.png">
+<img src="Pictures/kayla.png" style="height: 500px">
 
-<img src="Pictures/zaynab.png">
+<img src="Pictures/zaynab.png" style="height: 500px">
 
 All the pictures used for the personas came from freepik.com.
 
@@ -188,8 +188,6 @@ Over time, Rima is able to gather more evidence against her abuser and build a s
 # Functional requirements
 
 # Acceptance criteria
-
-The key success factors for this project include the ability to deliver a software application that is reliable, scalable, and secure, and that provides real-time assistance and support to users. The project team will need to work closely with potential users, stakeholders, and partners to identify and address the key requirements and challenges, and to ensure that the software application is effective and relevant in different contexts and cultures.
 
 # Design
 
