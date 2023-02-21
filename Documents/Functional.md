@@ -36,6 +36,48 @@
   - [Kayla scenario](#kayla-scenario)
   - [Zaynab scenario](#zaynab-scenario)
 - [Functional requirements](#functional-requirements)
+  - [Creation of an account](#creation-of-an-account)
+    - [Identity card verification](#identity-card-verification)
+    - [Set up of the account](#set-up-of-the-account)
+  - [Emergency button](#emergency-button)
+    - [Emergency contact](#emergency-contact)
+      - [Contact](#contact)
+      - [Features](#features)
+    - [Emergency numbers](#emergency-numbers)
+    - [Vocal assistance](#vocal-assistance)
+  - [Map](#map)
+    - [Heat map](#heat-map)
+    - [Green](#green)
+    - [Orange](#orange)
+    - [Red](#red)
+    - [Map Filters](#map-filters)
+    - [Safe place map](#safe-place-map)
+    - [Itinerary](#itinerary)
+    - [Home](#home)
+    - [Partner](#partner)
+    - [Specific address](#specific-address)
+  - [Notification](#notification)
+    - [New report](#new-report)
+    - [New incident](#new-incident)
+    - [A contact ned help](#a-contact-ned-help)
+    - [Someone need help](#someone-need-help)
+    - [Change on the map](#change-on-the-map)
+  - [Law information](#law-information)
+    - [For users](#for-users)
+    - [For we're safe](#for-were-safe)
+      - [Obligation of means](#obligation-of-means)
+      - [Emergency numbers](#emergency-numbers-1)
+      - [Location](#location)
+      - [Database](#database)
+  - [Detection of spy application](#detection-of-spy-application)
+  - [Database of evidence](#database-of-evidence)
+  - [Reporting](#reporting)
+    - [Good things](#good-things)
+    - [Bad things](#bad-things)
+  - [Out of service](#out-of-service)
+  - [Accessibility](#accessibility)
+    - [Cross platform](#cross-platform)
+    - [Software](#software)
 - [Acceptance criteria](#acceptance-criteria)
 - [Design](#design)
 - [Non-functional requirements](#non-functional-requirements)
@@ -187,7 +229,159 @@ Over time, Rima is able to gather more evidence against her abuser and build a s
 
 # Functional requirements
 
+A list of the specific actions that the product should be able to perform or behaviors it should support.
+In this part you can find all the features that I want to implement in this project. Here a mind map of what I have imagine to make it visual 
+
+<img src="Pictures/mindmap.png">
+
+## Creation of an account
+
+### Identity card verification
+
+### Set up of the account
+
+## Emergency button 
+
+### Emergency contact
+
+#### Contact
+
+#### Features
+- message
+- location
+- permission for activating a call
+
+### Emergency numbers
+	- 112
+	- 18
+	- 3919
+	- 114
+	- 04 74 32 27 12
+	- 04 74 22 39 64
+
+### Vocal assistance
+
+## Map
+
+### Heat map
+
+Danger zones
+
+### Green
+
+- Known as safe
+- Less than 2 incident
+
+### Orange
+
+- Got incident report here
+- Potential danger
+
+### Red
+
+- Multiple incident report
+- Known as dangerous
+
+### Map Filters
+
+	- streets with lights
+	- streets with camera
+	- streets with both
+	- streets without lights
+	- streets without camera
+	- Public place open
+
+### Safe place map
+
+### Itinerary
+
+Safe itinerry
+
+### Home
+
+### Partner
+
+### Specific address
+
+## Notification
+
+### New report
+
+### New incident
+
+### A contact ned help
+
+### Someone need help
+
+### Change on the map
+
+## Law information
+
+### For users
+
+- how to file a complaint 
+- how to defend ourself
+- rights
+
+### For we're safe
+
+#### Obligation of means
+
+#### Emergency numbers
+
+#### Location
+
+#### Database
+
+## Detection of spy application
+
+## Database of evidence
+
+- Photos
+- Documents
+- Dates
+- Audio
+- Video
+- 
+
+## Reporting
+
+### Good things
+
+- police
+- group of people
+- Add new information
+
+### Bad things
+
+- Wrong information on the map
+- Dangerous car 
+- Incident report
+- Group of people
+- 
+
+## Out of service
+
+- without internet
+- without network
+
+## Accessibility
+
+### Cross platform
+
+- Apple
+- Android
+
+### Software
+
+- computer
+- tablet
+- connected watches
+- website
+
 # Acceptance criteria
+
+Specific and measurable criteria that are used to determine whether a product or feature meets the requirements and expectations that have defined
 
 # Design
 
