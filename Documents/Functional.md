@@ -70,6 +70,8 @@
 - [Design](#design)
 - [Non-functional requirements](#non-functional-requirements)
 - [Constraints and assumptions](#constraints-and-assumptions)
+  - [Constraints](#constraints)
+  - [Assumptions](#assumptions)
 - [Security](#security)
 - [Footnotes](#footnotes)
 
@@ -504,6 +506,28 @@ As a software project, various legal considerations need to be considered. Here 
 - **Accessibility**: The software should be designed to support users with disabilities or special needs, with appropriate accommodations and accessible features.
 
 # Constraints and assumptions
+
+## Constraints
+
+- **Budget**: There is no money available for this project. So I may need to make trade-offs for features and functionality I can deliver.
+
+- **Timeline**: Being limited by a fixed deadline may impact my ability to deliver some features or functionality.
+
+- **Regulatory requirements**: I may be blocked by legal or regulatory requirements that will dictate certain aspects of the design or implementation of the software.
+
+- **Technical limitations**: I can be blocked by the available technology or my technical expertise.
+
+## Assumptions
+
+- **User behaviour**: I may assume that users will use the software as intended, and will report incidents accurately and truthfully.
+
+- **Device compatibility**: I may assume that the software will work on a wide range of devices and operating systems, despite the challenges associated with developing cross-platform software.
+
+- **Data accuracy**: I may assume that the data collected and reported by users is accurate and reliable.
+
+- **Language**: I may assume that the software will be used primarily by users fluent in the language(s) available.
+
+- **User adoption**: I may assume that the software will be used by users and will have a positive impact on the incidence of violence and abuse.
 
 # Security
 
