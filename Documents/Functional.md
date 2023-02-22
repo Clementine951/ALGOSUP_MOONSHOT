@@ -498,12 +498,19 @@ As a software project, various legal considerations need to be considered. Here 
 # Non-functional requirements
 
 - **Performance**: The software should respond quickly and provide a smooth user experience, even when there are many users or large amounts of data.
+
 - **Reliability**: The software should be available and responsive at all times, and should not lose any data or fail unexpectedly.
+
 - **Security**: The software should protect user privacy and confidential data, and should be resistant to attacks and unauthorized access.
+
 - **Usability**: The software should be easy to learn and use, even for users with limited technical experience, and should provide helpful feedback and clear error messages.
+
 - **Scalability**: The software should be able to handle increasing numbers of users and data without a significant decrease in performance or reliability.
+
 - **Maintainability**: The software should be easy to update and modify as necessary, with well-organized code and clear documentation.
+
 - **Compatibility**: The software should be compatible with a wide range of devices, browsers, and operating systems.
+
 - **Accessibility**: The software should be designed to support users with disabilities or special needs, with appropriate accommodations and accessible features.
 
 # Out of scope
@@ -547,6 +554,18 @@ As a software project, various legal considerations need to be considered. Here 
 
 # Security
 
+- **Authentication and Authorisation**: To ensure that only authorised users can access the data and perform specific actions, the application should have a robust authentication and authorization mechanism. This could include multi-factor authentication, password policies, and role-based access control.
+
+- **Encryption**: Encryption[^encryption] can be used to protect data both at rest and in transit. Data at rest should be encrypted on the server and any backups or archives, and data in transit should be encrypted using SSL[^ssl]/TLS[^tsl].
+
+- **Data Backup and Disaster Recovery**: Regular backups of the data should be taken to ensure that in the event of a disaster or data loss, the data can be restored. The backups should be encrypted and stored in a secure location that is separate from the production environment.
+
+- **Logging and Monitoring**: The application should have robust logging and monitoring capabilities to detect and respond to any suspicious or malicious activities. This can include logging all user actions and system events, and monitoring system resources and network traffic.
+
+- **Vulnerability Scanning and Penetration Testing**: Regular vulnerability scanning and penetration testing can be performed to identify and remediate any security vulnerabilities in the application.
+
+- **Regular Security Audits**: Regular security audits can be performed by an independent third party to ensure that the application is compliant with all relevant security standards and best practices.
+
 # Footnotes
 
 [^algosup]: ALGOSUP is a computer science school based in Vierzon. And also a stakeholder in this project.
@@ -570,3 +589,9 @@ As a software project, various legal considerations need to be considered. Here 
 [^rgaa]: The certification standard for public websites in France, outlines the requirements that websites need to meet to comply with digital laws. 
 
 [^os]: An operating system (OS) is system software that manages computer hardware, and software resources, and provides common services for computer programs.
+
+[^tls]: Transport Layer Security is a cryptographic protocol designed to provide communications security over a computer network.
+
+[^ssl]: Secure Sockets Layer is a standard security technology for establishing an encrypted link between a server and a client.
+
+[^encryption]: Encryption is a way of scrambling data so that only authorized parties can understand the information.
