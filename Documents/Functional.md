@@ -495,6 +495,8 @@ As a software project, various legal considerations need to be considered. Here 
 
 # Design
 
+[Link to the Figma prototype](https://www.figma.com/file/4KkgHK7bwUJx3Gxt19QdUX/We're-safe?node-id=0%3A1&t=NbPV5eAYdkQ0PitI-1)
+
 # Non-functional requirements
 
 - **Performance**: The software should respond quickly and provide a smooth user experience, even when there are many users or large amounts of data.
