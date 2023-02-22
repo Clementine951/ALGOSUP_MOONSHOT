@@ -69,6 +69,7 @@
 - [Acceptance criteria](#acceptance-criteria)
 - [Design](#design)
 - [Non-functional requirements](#non-functional-requirements)
+- [Out of scope](#out-of-scope)
 - [Constraints and assumptions](#constraints-and-assumptions)
   - [Constraints](#constraints)
   - [Assumptions](#assumptions)
@@ -504,6 +505,21 @@ As a software project, various legal considerations need to be considered. Here 
 - **Maintainability**: The software should be easy to update and modify as necessary, with well-organized code and clear documentation.
 - **Compatibility**: The software should be compatible with a wide range of devices, browsers, and operating systems.
 - **Accessibility**: The software should be designed to support users with disabilities or special needs, with appropriate accommodations and accessible features.
+
+# Out of scope
+
+- The development of physical safety devices, such as pepper spray or personal alarms, is not part of this project. While these devices may provide an additional layer of personal safety, the project is developing a software application to help users report incidents or abuse and access resources for support.
+
+- Legal representation or support beyond the scope of reporting incidents is not part of the project. While it is important to ensure that victims of violence or abuse have access to legal services, this project is focused on developing a software application to facilitate the reporting of incidents and provide resources for support.
+
+- Implementing features or functions not related to the core objectives of the project, such as a social network or e-commerce capabilities, is not part of the project. The project has a specific set of core objectives, and any features or functions not directly related to those objectives are considered out of scope.
+
+- Providing medical or psychological services beyond the scope of reporting incidents and providing resources for support is out of the scope of this project. While it is important to provide victims of violence or abuse with access to medical and psychological services, this project is focused on developing a software application to facilitate the reporting of incidents and provide resources for support.
+
+- The development of additional hardware, such as wearable devices or sensors, beyond what is necessary to support the features of the app, is out of the scope of this project. The project is focused on developing a software application to help users report incidents of violence or abuse and access resources for support, and any additional hardware development is considered out of scope.
+
+- Providing security or protection beyond the scope of reporting incidents, such as monitoring or tracking individuals who may pose a threat, is out of the scope of this project. The focus of the project is on developing a software application to help users report incidents of violence or abuse and access resources for support, and any additional security or protection services are considered out of scope.
+
 
 # Constraints and assumptions
 
