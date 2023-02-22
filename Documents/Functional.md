@@ -13,6 +13,7 @@
 <p  align="center"> ALGOSUP,  We're safe. All Rights Reserved. </p>
 
 <hr>
+<img src="Pictures/logo.png" style="height: 100px" align="right">
 
 <br>
 
@@ -27,57 +28,44 @@
 - [Target](#target)
 - [Personas](#personas)
 - [Scenarios](#scenarios)
-  - [Aly scenario](#aly-scenario)
-  - [Anna scenario](#anna-scenario)
-  - [Brianna scenario](#brianna-scenario)
-  - [Colby scenario](#colby-scenario)
-  - [Courntey scenario](#courntey-scenario)
-  - [Katy scenario](#katy-scenario)
-  - [Kayla scenario](#kayla-scenario)
-  - [Zaynab scenario](#zaynab-scenario)
+  - [Aly's scenario](#alys-scenario)
+  - [Anna's scenario](#annas-scenario)
+  - [Brianna's scenario](#briannas-scenario)
+  - [Colby's scenario](#colbys-scenario)
+  - [Courtney's scenario](#courtneys-scenario)
+  - [Katy's scenario](#katys-scenario)
+  - [Kayla's scenario](#kaylas-scenario)
+  - [Zaynab's scenario](#zaynabs-scenario)
 - [Functional requirements](#functional-requirements)
   - [Creation of an account](#creation-of-an-account)
-    - [Identity card verification](#identity-card-verification)
-    - [Set up of the account](#set-up-of-the-account)
+    - [User registration](#user-registration)
+    - [Account setup](#account-setup)
+    - [Personalized settings](#personalized-settings)
+    - [Emergency contacts](#emergency-contacts)
+    - [Privacy and security](#privacy-and-security)
+    - [User support](#user-support)
   - [Emergency button](#emergency-button)
+    - [Quick access](#quick-access)
+    - [One-touch activation](#one-touch-activation)
     - [Emergency contact](#emergency-contact)
-      - [Contact](#contact)
-      - [Features](#features)
+    - [Location tracking](#location-tracking)
+    - [Audio or video recording](#audio-or-video-recording)
+    - [Alerts and notifications:](#alerts-and-notifications)
     - [Emergency numbers](#emergency-numbers)
     - [Vocal assistance](#vocal-assistance)
   - [Map](#map)
     - [Heat map](#heat-map)
-    - [Green](#green)
-    - [Orange](#orange)
-    - [Red](#red)
     - [Map Filters](#map-filters)
-    - [Safe place map](#safe-place-map)
-    - [Itinerary](#itinerary)
-    - [Home](#home)
-    - [Partner](#partner)
-    - [Specific address](#specific-address)
+    - [Safe itinerary](#safe-itinerary)
+  - [Reporting](#reporting)
   - [Notification](#notification)
-    - [New report](#new-report)
-    - [New incident](#new-incident)
-    - [A contact ned help](#a-contact-ned-help)
-    - [Someone need help](#someone-need-help)
-    - [Change on the map](#change-on-the-map)
-  - [Law information](#law-information)
-    - [For users](#for-users)
-    - [For we're safe](#for-were-safe)
-      - [Obligation of means](#obligation-of-means)
-      - [Emergency numbers](#emergency-numbers-1)
-      - [Location](#location)
-      - [Database](#database)
+    - [Receive notification](#receive-notification)
+    - [Send notification](#send-notification)
   - [Detection of spy application](#detection-of-spy-application)
   - [Database of evidence](#database-of-evidence)
-  - [Reporting](#reporting)
-    - [Good things](#good-things)
-    - [Bad things](#bad-things)
   - [Out of service](#out-of-service)
-  - [Accessibility](#accessibility)
-    - [Cross platform](#cross-platform)
-    - [Software](#software)
+  - [Cross-platform](#cross-platform)
+  - [Law information](#law-information)
 - [Acceptance criteria](#acceptance-criteria)
 - [Design](#design)
 - [Non-functional requirements](#non-functional-requirements)
@@ -143,11 +131,15 @@ The target audience for this project is women of all ages, backgrounds, and loca
 
 <img src="Pictures/zaynab.png" style="height: 500px">
 
+<img src="Pictures/frances.png" style="height: 500px">
+
+<img src="Pictures/mary.png" style="height: 500px">
+
 All the pictures used for the personas came from freepik.com.
 
 # Scenarios
 
-## Aly scenario
+## Aly's scenario
 
 Aly is an outgoing high school student who enjoys socializing and attending events with her friends. However, her parents are always worried about her safety, so they have imposed a strict curfew at midnight. Aly understands their concern but sometimes feels frustrated and limited by their rules.
 
@@ -158,7 +150,7 @@ Aly's parents are initially sceptical of the app, but they become more comfortab
 
 Over time, Aly becomes more comfortable using We're Safe and begins to explore her city more confidently, knowing that she has a reliable tool to help her stay safe. She's grateful for her friend's recommendation and the increased trust and independence that the app has provided.
 
-## Anna scenario
+## Anna's scenario
 
 Anna uses We're Safe on her phone to check the route for her daily commute to the university. She's happy to see that the app has a map that indicates the streets that are well-lit and safe places to walk. As she reviews the route, she notices that one part of her commute is not well-lit, and the app shows that there are no safe places nearby.
 
@@ -166,17 +158,17 @@ Anna is concerned about this and decides to report the issue through the app. Sh
 
 The next day, Anna receives a notification from We're Safe indicating that they have investigated the area and have added additional lighting. Anna is relieved to hear this news and feels much safer on her daily commute. She also appreciates the quick response from We're Safe and decides to use the app to report any safety issues in her neighbourhood from now on.
 
-## Brianna scenario
+## Brianna's scenario
 
-Brianna is a freelance Wordpress developer who frequently travels to meet clients in unfamiliar parts of town. She always carries her phone with her to stay connected with her clients and colleagues. However, Brianna often feels uneasy and unsafe while traveling alone, especially in new or unfamiliar areas.
+Brianna is a freelance WordPress developer who frequently travels to meet clients in unfamiliar parts of town. She always carries her phone with her to stay connected with her clients and colleagues. However, Brianna often feels uneasy and unsafe while travelling alone, especially in new or unfamiliar areas.
 
 One day, while walking to a meeting with a new client in an unfamiliar part of Grosseto, Brianna decides to try We're Safe. She opens the app and inputs her destination, and We're Safe generates a route for her, highlighting the safest streets and areas to avoid. The app also provides her with real-time updates on any safety concerns or incidents in the area.
 
 As Brianna walks, she feels more secure and confident, knowing that she's using a tool that can help her stay safe. She notices that the app alerts her to an upcoming area that has a history of theft and vandalism, and she quickly decides to take a detour to avoid that area.
 
-Thanks to We're Safe, Brianna arrives safely to her meeting with her new client, feeling more secure and empowered. She decides to continue using the app to help her navigate unfamiliar areas, and even recommends it to her other freelancer friends who travel frequently for work.
+Thanks to We're Safe, Brianna arrives safely at her meeting with her new client, feeling more secure and empowered. She decides to continue using the app to help her navigate unfamiliar areas and even recommends it to her other freelancer friends who travel frequently for work.
 
-## Colby scenario
+## Colby's scenario
 
 Colby is worried about his friend Olivia who is in an abusive relationship. He downloads the "We're Safe" application and sets up a personal profile. He also sets up his friend's emergency contacts, which include her family and the campus police department. 
 
@@ -184,7 +176,7 @@ Colby encourages his friend to download the app as well, but she is hesitant. Co
 
 Colby can then take appropriate action to ensure his friend's safety, whether that means checking in on her or calling for emergency assistance. With the "We're Safe" app, Colby feels more confident in his ability to help his friend and keep her safe from harm.
 
-## Courntey scenario
+## Courtney's scenario
 
 Courtney is a nurse who has been dealing with the stress of a recent break-up and the ongoing harassment from her ex-partner. She has been feeling anxious and scared for her safety, especially when travelling to and from work. She is looking for a solution that can help her feel more secure and in control of her life.
 
@@ -194,7 +186,7 @@ The first time Courtney uses We're Safe, she is walking home from work late at n
 
 Over the next few days, Courtney starts using We're Safe regularly. She feels more confident knowing that she can contact her emergency contacts and the authorities if she needs to. The app's feature for saving evidence also helps her gather information on her ex-partner's harassment and feel more secure about taking legal action against him. With the help of We're Safe, Courtney feels more in control of her life and confident that she can escape the fear caused by her ex-partner's harassment.
 
-## Katy scenario
+## Katy's scenario
 
 Katy is a 30-year-old refugee who recently moved to a new country and is unfamiliar with the local area. She is feeling anxious and uncertain about her safety when travelling alone, especially at night. She has heard about We're Safe and is curious to see how it can help her feel more secure.
 
@@ -204,7 +196,7 @@ After the incident, Katy decides to explore the other features of We're Safe to 
 
 With the help of We're Safe, Katy feels more confident and empowered to navigate her new environment and take control of her safety.
 
-## Kayla scenario
+## Kayla's scenario
 
 Kayla downloads the We're Safe application after learning about it from a friend. She is nervous about using it on her phone because her abusive husband monitors her phone usage, but she decides to use a friend's phone to create an account and log in.
 
@@ -216,7 +208,7 @@ With the support of the counsellor, Kayla takes legal action against her husband
 
 Through the We're Safe app, Kayla is able to continue documenting any contact or threats from her husband, which strengthens her case in court. She is finally able to move on and begin a new life for herself and her children, free from abuse and fear.
 
-## Zaynab scenario
+## Zaynab's scenario
 
 Zaynab has been worried about her friend Rima, who is in an abusive relationship with her partner. Zaynab has been trying to find ways to help Rima but is unsure of what to do. One day, while searching online for resources, Zaynab comes across We're Safe, an app that helps people dealing with domestic violence.
 
@@ -229,102 +221,222 @@ Over time, Rima is able to gather more evidence against her abuser and build a s
 
 # Functional requirements
 
-A list of the specific actions that the product should be able to perform or behaviors it should support.
-In this part you can find all the features that I want to implement in this project. Here a mind map of what I have imagine to make it visual 
+A list of the specific actions that the product should be able to perform or behaviours it should support.
+In this part, you can find all the features that I want to implement in this project. Here is a mind map of what I have imagined making it visual.
 
 <img src="Pictures/mindmap.png">
 
 ## Creation of an account
 
-### Identity card verification
+### User registration
 
-### Set up of the account
+The user must register for an account by providing basic information such as:
+- their name, 
+- email address,
+- a password. 
+
+The app should verify that the email address is valid and unique to prevent duplicate accounts.
+
+### Account setup 
+
+Once the user has registered, they need to complete their account setup by providing additional information such as:
+- their phone number, 
+- address, 
+- emergency contacts. 
+
+They may also need to answer some security questions to help verify their identity in case of a forgotten password or other issues.
+
+### Personalized settings
+
+The app should allow users to customize their settings based on their individual preferences and needs. This might include choosing a language, setting a home location or preferred route for daily travel, and configuring notification settings.
+
+### Emergency contacts
+
+The app should allow users to add emergency contacts, such as family members or friends, who can be notified in case of an emergency. Users may also be able to choose different contacts for different types of emergencies (e.g. medical emergencies, personal safety threats).
+
+### Privacy and security
+
+The app should ensure the user's privacy and security by providing features such as two-factor authentication, secure data encryption, and clear privacy policies. Users should also have the option to delete their account and all associated data if they choose to do so.
+
+### User support
+
+The app should provide user support through various channels such as a help centre, in-app chat, or email. The app should also provide clear instructions on how to use its features, troubleshoot common issues, and contact support if needed.
 
 ## Emergency button 
 
+### Quick access
+
+The emergency button should be easily accessible to the user, even in stressful or dangerous situations. This might mean placing it on the home screen of a mobile app or website or making it a physical button on a device.
+
+An emergency button could be placed in the control centre on phones.
+
+<img src="Pictures/center.png" style="height: 300px">
+
+### One-touch activation
+
+The emergency button should be easy to activate with one touch or click, to minimize the time it takes to call for help.
+
+
 ### Emergency contact
 
-#### Contact
+The user should be able to set up their emergency contacts in advance so that when the button is activated, the system will automatically notify those contacts.
+The user could choose a contact following the emergency. 
 
-#### Features
-- message
-- location
-- permission for activating a call
+- Need help at her apartment -> her neighbour
+
+- Need help at her job -> her colleague
+
+It could avoid sending a message to someone that can't help.
+
+### Location tracking
+
+When the emergency button is activated, the system should be able to track the user's location in real-time, so the contacts can quickly locate and assist them.
+
+The user should allow the app to take and share the location before they need help. The users won't lose time at the wrong moment.
+
+### Audio or video recording
+
+Some emergency button systems include audio or video recording capabilities, which can provide valuable evidence in an emergency situation.
+
+### Alerts and notifications: 
+
+Once the emergency button is activated, the system should provide alerts and notifications to the user and their emergency contacts, to ensure that help is on the way.
 
 ### Emergency numbers
-	- 112
-	- 18
-	- 3919
-	- 114
-	- 04 74 32 27 12
-	- 04 74 22 39 64
+
+- **112**: Emergency number for the European Union, which can be dialled from any member state to reach emergency services such as police, fire, and medical services.
+
+- **18**: Emergency number in France for the fire department (Fire brigade).
+
+- **3919**: National helpline in France for women who are victims of violence. It provides information, support, and referral to local resources.
+
+- **114**: Emergency number in France for people who are deaf, hard of hearing, or speech-impaired. It allows people to contact emergency services through SMS or fax.
+- **04 74 22 39 64**: Information on women's rights, family mediation and employment in France.
 
 ### Vocal assistance
 
 ## Map
 
+- **Current location**: The map displays the user's current location as a blue dot on the map. This can help users to orient themselves and understand their surroundings.
+
+- **Street view**: Users can use the street view feature to see what the area around them looks like. This can be especially helpful for those who are in an unfamiliar area and want to get a better sense of their surroundings.
+
 ### Heat map
 
-Danger zones
+The heat map[^heatmap] will be used to display the density of crime incidents in a particular area. By analyzing this data, users can make more informed decisions about where to go and what precautions to take. 
 
-### Green
+For example, a user who is travelling to an unfamiliar city could consult the heat map to identify areas with high crime rates and plan a route that avoids those areas. Similarly, a user who is planning to go for a run or walk could use the heat map to find routes that are safer and have a lower incidence of crime.
 
-- Known as safe
-- Less than 2 incident
+- **Green**: Green areas will be where less than two incidents have occurred. These will be known safe areas.
 
-### Orange
+- **Orange**: Orange areas will be where more than two incidents have occurred. These will be places with potential danger.
 
-- Got incident report here
-- Potential danger
-
-### Red
-
-- Multiple incident report
-- Known as dangerous
+- **Red**: Red areas will be those where more than five incidents have taken place in less than a month or where there are recurrent assaults. These are dangerous areas.
 
 ### Map Filters
 
-	- streets with lights
-	- streets with camera
-	- streets with both
-	- streets without lights
-	- streets without camera
-	- Public place open
+To help users to find streets to feel safer we can propose to see particular information like:
 
-### Safe place map
+- **Street lighting**: The map will indicate the level of street lighting in a particular area. This can help users to avoid areas that are poorly lit and potentially dangerous.
 
-### Itinerary
+- **Streets with cameras**: The map also shows the street level with cameras in a particular area. Cameras are known to deter aggressors.
 
-Safe itinerry
+- **Safe places**: The map can also show safe locations near the user, such as police stations, hospitals and fire stations. This can help users quickly locate a safe place if they feel threatened or in danger. We can also add safe place partners, and public places such as bars or bakeries, which are open late at night and early in the morning. These partner places will be willing to take people in and keep them safe from harm.
 
-### Home
+- **Heat map**: The users can choose to see the heat map or not.
 
-### Partner
+### Safe itinerary
 
-### Specific address
+The map includes a navigation feature that can help users to get directions to a particular location. This can be helpful for those who are unfamiliar with an area and need help finding their way. It could propose a safe route through lit streets and streets with cameras.
+
+## Reporting
+
+The reporting feature can be used by users to report incidents of harassment, abuse, assault, or any other safety concern to the relevant authorities or support services. This feature allows users to document and report incidents quickly and easily, providing valuable information for law enforcement or other agencies to investigate and potentially prevent future incidents.
+
+- **Good things**: Users should be able to report a police patrol or a group of people. They can also report new information on the map.
+
+- **Bad things**: Users should be able to report a group of people, an incident, a dangerous car or even wrong information on the map.
 
 ## Notification
 
-### New report
+### Receive notification
 
-### New incident
+Here is the different type of notifications the user can receive:
 
-### A contact ned help
+- New incident,
 
-### Someone need help
+- New report,
 
-### Change on the map
+- A contact need help,
+
+- Change on the map.
+
+
+### Send notification
+
+When the user needs help or feels unsafe, they can send a notification to their emergency contacts. 
+
+
+## Detection of spy application
+
+A spy app detection feature can be used for several reasons:
+
+- **Privacy protection**: Spy apps can be installed on a device without the user's knowledge, and they can monitor and record the user's activities, including their calls, text messages, social media messages, browsing history, and more. A spy app detection feature can help users identify if such an app is installed on their device, allowing them to remove it and protect their privacy.
+
+- **Security**: Spy apps can be used by hackers and cybercriminals to gain unauthorized access to a user's device and steal sensitive information. By detecting and removing such apps, a spy app detection feature can help prevent security breaches and protect users from identity theft and other cybercrimes.
+
+- **Legal compliance**: In many jurisdictions, the use of spy apps is illegal without the consent of the person being monitored. A spy app detection feature can help users ensure that they are not inadvertently violating the law by unknowingly installing a spy app on someone else's device.
+
+The feature must be easy to use and simple to understand. 
+The user must allow access to the device then the software will be able to detect if there is a spy app or not.
+
+If there is a spy app on the user's device, the user should receive information on the type of software and how to remove it.
+
+## Database of evidence
+
+A database of evidence can be a useful tool in this project for several reasons. It can help to centralize and organize all the evidence related to a particular case, such as photos, videos, audio recordings, and text messages. This can make it easier for individuals to access and manage the evidence, and can also make it easier to present the evidence in court or to law enforcement if needed.
+
+In addition, having a database of evidence can help to protect the evidence from being lost or destroyed. It can provide a backup in case the original evidence is lost or damaged, and can also help to prevent tampering with the evidence.
+
+Another important benefit of a database of evidence is that it can help to protect the privacy and security of the individuals involved in the case. The evidence can be stored securely and only accessible to authorized individuals, which can help to prevent unauthorized access or leaks of sensitive information.
+
+The database of evidence should capable to store:
+- Pictures,
+- Documents,
+- Video,
+- Audio,
+- Text.
+
+## Out of service
+
+The entire application should be usable without an internet connection. 
+Most of the features should be usable without a network connection.
+
+## Cross-platform
+
+- **Compatibility with multiple platforms**: The software must be designed to run on different operating systems[^os], such as Windows, macOS, Linux, iOS, and Android.
+
+- **Native app features**: The software should take advantage of native features of each platform, such as GPS, camera, or push notifications, to provide a better user experience.
+
+- **Cloud integration**: The software could integrate with cloud services, such as Dropbox or Google Drive, to allow users to synchronise data across multiple devices.
+
+- **Easy updates**: Make things easy to maintain and fix issues in the app.
 
 ## Law information
 
-### For users
+As a software project, various legal considerations need to be considered. Here is some general legal information that needs to be considered for the project:
 
-- how to file a complaint 
-- how to defend ourself
-- rights
+- **Privacy laws**: The software is going to collect and store user data, so it's important to comply with relevant privacy laws, such as GDPR[^gdpr] in the European Union or CCPA[^ccpa] in California.
 
-### For we're safe
+- **Intellectual property laws**: Make sure that the images and other content used in your app do not violate any copyright or trademark laws.
 
+- **Security laws**: As we are going to store personal or sensitive data, we may need to comply with security laws, such as the Cybersecurity Information Sharing Act (CISA)[^cisa] in the US.
+
+- **Consumer protection laws**: The software must be transparent about the features it provides and any limitations or risks associated with using it.
+
+- **Accessibility laws**: The software should comply with accessibility laws, such as the Americans with Disabilities Act (ADA)[^ada] in the US or Référentiel Général d’Accessibilité pour les Administrations (RGAA)[^rgaa] in France, to ensure that people with disabilities can use it.
+
+<!-- 
 #### Obligation of means
 
 #### Emergency numbers
@@ -332,60 +444,64 @@ Safe itinerry
 #### Location
 
 #### Database
-
-## Detection of spy application
-
-## Database of evidence
-
-- Photos
-- Documents
-- Dates
-- Audio
-- Video
-- 
-
-## Reporting
-
-### Good things
-
-- police
-- group of people
-- Add new information
-
-### Bad things
-
-- Wrong information on the map
-- Dangerous car 
-- Incident report
-- Group of people
-- 
-
-## Out of service
-
-- without internet
-- without network
-
-## Accessibility
-
-### Cross platform
-
-- Apple
-- Android
-
-### Software
-
-- computer
-- tablet
-- connected watches
-- website
+ -->
 
 # Acceptance criteria
 
-Specific and measurable criteria that are used to determine whether a product or feature meets the requirements and expectations that have defined
+- The emergency button should be prominently displayed on the home screen, with no more than one tap required to activate it.
+
+- The emergency button feature must be easily accessible from all areas of the app, and must immediately notify emergency services when activated.
+
+- The software should be able to accurately detect spyware on the user's device with at least 95% accuracy.
+
+- The map should accurately display the user's location and provide directions to safe places nearby within 1 meter of the user's current location.
+
+- The reporting feature should allow the user to submit a report with all necessary information, including the type of incident, location, and any supporting evidence such as photos or videos, within 2 minutes.
+
+- The database of evidence should be able to securely store and retrieve evidence for at least 5 years, and allow authorized personnel to search and filter the evidence by location, type of incident, and other relevant criteria.
+
+- The database of evidence must be secure, with appropriate measures in place to protect the privacy and safety of those reporting incidents.
+
+- The database of evidence must have robust backup and disaster recovery procedures in place to ensure that data is not lost in the event of a system failure or natural disaster.
+
+- The heat map feature must accurately represent areas of high and low safety based on the reported incidents and user feedback.
+
+- The map filters must allow users to quickly find the information they are looking for, and must accurately reflect the reported incidents and user feedback.
+
+- The reporting feature must be easy to use and provide clear instructions for how to report an incident, including what types of incidents should be reported and what information is required.
+
+- The software must comply with all relevant laws and regulations related to privacy, data protection, and reporting incidents of violence or abuse.
+
+- The software must be available in multiple languages to support a diverse user base.
+
+- The software must be compatible with multiple devices and operating systems to ensure broad accessibility.
+
+- The software must be user-friendly and intuitive, with clear navigation and helpful feedback.
+
+- The software must be regularly updated and maintained to address bugs and security issues and to incorporate user feedback.
+
+- The software must be designed with scalability in mind and must be able to handle a large volume of users and incidents without experiencing performance issues or downtime.
+
+- The software must be tested thoroughly before launch to ensure that it is reliable and free of bugs or glitches.
+
+- The software must be designed with accessibility in mind including features for users with visual, hearing, or motor impairments.
+
+- The reporting feature must allow users to edit or delete a report if they made a mistake or if the information changes.
+
+- The heat map feature must update in real-time as new incidents are reported, and must be refreshed every 24 hours to ensure accurate representation.
 
 # Design
 
 # Non-functional requirements
+
+- **Performance**: The software should respond quickly and provide a smooth user experience, even when there are many users or large amounts of data.
+- **Reliability**: The software should be available and responsive at all times, and should not lose any data or fail unexpectedly.
+- **Security**: The software should protect user privacy and confidential data, and should be resistant to attacks and unauthorized access.
+- **Usability**: The software should be easy to learn and use, even for users with limited technical experience, and should provide helpful feedback and clear error messages.
+- **Scalability**: The software should be able to handle increasing numbers of users and data without a significant decrease in performance or reliability.
+- **Maintainability**: The software should be easy to update and modify as necessary, with well-organized code and clear documentation.
+- **Compatibility**: The software should be compatible with a wide range of devices, browsers, and operating systems.
+- **Accessibility**: The software should be designed to support users with disabilities or special needs, with appropriate accommodations and accessible features.
 
 # Constraints and assumptions
 
@@ -393,4 +509,24 @@ Specific and measurable criteria that are used to determine whether a product or
 
 # Footnotes
 
-[^algosup]: ALGOSUP is a computer science school based in Vierzon. And also a stakeholder this project.
+[^algosup]: ALGOSUP is a computer science school based in Vierzon. And also a stakeholder in this project.
+
+[^spy]: A spy app, also known as spyware or stalker ware, is software that can be installed on a device, such as a smartphone or a computer, without the owner's knowledge or consent. Once installed, a spy app can track the device's location, monitor the owner's calls, messages, and online activity, and even record their keystrokes and take screenshots.
+
+[^device]: smartphone, computer, tablet...
+
+[^cross]: In the context of technology, cross-platform typically refers to software or applications that are able to run on multiple operating systems or platforms. 
+
+[^heatmap]: A heat map is a feature that displays the density of data points on a map by using a colour gradient.
+
+[^gdpr]: The General Data Protection Regulation is a Regulation in EU law on data protection and privacy in the EU and the European Economic Area.
+
+[^ccpa]: The California Consumer Privacy Act is a state statute intended to enhance privacy rights and consumer protection for residents of California, United States.
+
+[^cisa]: The Cybersecurity and Infrastructure Security Agency works with partners to defend against today's threats and collaborates with the industry to build more secure and resilient infrastructure for the future.
+
+[^ada]: The Americans with Disabilities Act of 1990 or ADA is a civil rights law that prohibits discrimination based on disability.
+
+[^rgaa]: The certification standard for public websites in France, outlines the requirements that websites need to meet to comply with digital laws. 
+
+[^os]: An operating system (OS) is system software that manages computer hardware, and software resources, and provides common services for computer programs.
