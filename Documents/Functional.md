@@ -52,7 +52,6 @@
     - [Audio or video recording](#audio-or-video-recording)
     - [Alerts and notifications:](#alerts-and-notifications)
     - [Emergency numbers](#emergency-numbers)
-    - [Vocal assistance](#vocal-assistance)
   - [Map](#map)
     - [Heat map](#heat-map)
     - [Map Filters](#map-filters)
@@ -314,9 +313,10 @@ Once the emergency button is activated, the system should provide alerts and not
 - **3919**: National helpline in France for women who are victims of violence. It provides information, support, and referral to local resources.
 
 - **114**: Emergency number in France for people who are deaf, hard of hearing, or speech-impaired. It allows people to contact emergency services through SMS or fax.
+
 - **04 74 22 39 64**: Information on women's rights, family mediation and employment in France.
 
-### Vocal assistance
+<!-- ### Vocal assistance -->
 
 ## Map
 
