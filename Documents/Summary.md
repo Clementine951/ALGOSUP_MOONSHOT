@@ -1,7 +1,7 @@
 <hr>
 <p  align="center"  style="font-weight: bold; font-size: 30px"> We're Safe </p>
 
-<p  align="center"  style="font-weight: bold; font-size: 18px">Summary of what have been done</p>
+<p  align="center"  style="font-weight: bold; font-size: 18px">Summary of what has been done</p>
 
 <br>
 
