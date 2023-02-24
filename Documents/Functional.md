@@ -496,6 +496,15 @@ As a software project, various legal considerations need to be considered. Here 
 # Design
 
 [Link to the Figma prototype](https://www.figma.com/file/4KkgHK7bwUJx3Gxt19QdUX/We're-safe?node-id=0%3A1&t=NbPV5eAYdkQ0PitI-1)
+[Link to the prototype](https://www.figma.com/proto/4KkgHK7bwUJx3Gxt19QdUX/We're-safe?node-id=10%3A188&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A393)
+[Link to figma icons](https://www.figma.com/file/zr0nRL02tQo6m9XYXptlie/Free-Icon-Pack-1600%2B-icons-(Community)?node-id=2%3A27&t=jj8wUdcNquvw9V0A-0)
+
+Iframe for maps : [Snazzy maps](https://snazzymaps.com/build-a-map/edit/466168)
+
+```HTML
+<iframe src="https://snazzymaps.com/embed/466168" width="600px" height="900px" style="border:none;"></iframe>
+````
+
 
 # Non-functional requirements
 
