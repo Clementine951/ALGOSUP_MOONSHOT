@@ -47,10 +47,11 @@ From the start of the project, I spend a lot of time defining the project featur
 - Find a new logo
 - Mockup and design
 - Functional specifications
-- KPIs
+- Search about laws regarding the project
 
 ## What's next?
 
+- KPIs
 - Finalise the documents
 - Technical
 - Planning
