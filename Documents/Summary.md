@@ -45,7 +45,7 @@ From the start of the project, I spend a lot of time defining the project featur
 ## What is going on?
 
 - Find a new logo
-- Mockup and design
+- Mockup and [design](https://www.figma.com/file/4KkgHK7bwUJx3Gxt19QdUX/We're-safe?node-id=0%3A1&t=7N9sGvzId1GtP1pl-0)
 - Functional specifications
 - Search about laws regarding the project
 
